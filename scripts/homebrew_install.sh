@@ -48,6 +48,7 @@ formulas=(
     mecab
     diff-so-fancy
     thefuck
+    emacs
 )
 
 "brew tap..."
@@ -68,6 +69,7 @@ casks=(
     slack
     visual-studio-code
     iterm2
+    zoom
 )
 
 echo "start brew cask install apps..."
